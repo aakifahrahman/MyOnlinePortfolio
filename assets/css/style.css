@@ -367,5 +367,7 @@ hr.small {
   padding-right: 120px;
   padding-top: 20px;
   padding-bottom: 40px;
-
+  width:100%;
+  overflow:auto;
+  min-height:27rem;
 }
